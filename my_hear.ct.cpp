@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+/// @brief 
 main(){
 	int i,j;
 	for(i=1;i<=5;i++)
